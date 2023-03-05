@@ -22,7 +22,5 @@
 
 - Со мной можно связаться:
   
-  <img src="https://shields.io/badge/telegram-tatyana__vtg-blue?logo=telegram&style=plastic" /><br>
-  <img src="https://shields.io/badge/Email-tatyana.chijikova.noc@gmail.com-red?logo=gmail&style=plastic" />
-  
-  
+  <img src="https://shields.io/badge/telegram-blue?logo=telegram&style=plastic" /> - [@tatyana__vtg](https://t.me/tatyana_vtg) <br>
+  <img src="https://shields.io/badge/Email-red?logo=gmail&style=plastic" /> - tatyana.chijikova.noc@gmail.com
