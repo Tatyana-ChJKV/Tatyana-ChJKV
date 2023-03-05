@@ -24,3 +24,15 @@
   
   <img src="https://shields.io/badge/telegram-blue?logo=telegram&style=plastic" /> - [@tatyana__vtg](https://t.me/tatyana_vtg) <br>
   <img src="https://shields.io/badge/Email-red?logo=gmail&style=plastic" /> - tatyana.chijikova.noc@gmail.com
+
+---
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Tatyana-ChJKV&theme=nord"/>     </a>
+  </p>
+  
+---
+  <p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Tatyana-ChJKV&theme=nord&date_format=j%2Fn%5B%2FY%5D"/>     </a>
+  </p>
+  
+---
